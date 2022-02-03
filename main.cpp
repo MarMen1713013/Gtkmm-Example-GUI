@@ -1,5 +1,4 @@
-#include <gtkmm/application.h>
-#include "lib/HelloWorld.hpp"
+#include "hello/HelloWorld.hpp"
 
 int main( int argc, char *argv[] ) {
 

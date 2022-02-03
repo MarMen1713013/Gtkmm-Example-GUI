@@ -1,4 +1,4 @@
-#include "HelloWorld.hpp"
+#include "hello/HelloWorld.hpp"
 #include <iostream>
 
 HelloWorld::HelloWorld() : m_button("Hello World") {
